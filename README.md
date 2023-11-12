@@ -1,5 +1,7 @@
+[![MasterHead]https://drive.google.com/file/d/10Bjh4_-A1lUVElJgXiyFcMxG3NDr5IP0/view)]
 <h1 align="center">Hi 👋, I'm Vidura Naveen</h1>
 <h3 align="center">A dedicated and passionate software developer committed to advancing in the field.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura-naveen&label=Profile%20views&color=0e75b6&style=flat" alt="vidura-naveen" /> </p>
 
@@ -29,4 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidura-naveen&show_icons=true&locale=en&layout=compact" alt="vidura-naveen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidura-naveen&show_icons=true&locale=en" alt="vidura-naveen" /></p>
