@@ -1,4 +1,4 @@
-[![MasterHead]https://drive.google.com/file/d/10Bjh4_-A1lUVElJgXiyFcMxG3NDr5IP0/view)]
+[![MasterHead][https://drive.google.com/file/d/10Bjh4_-A1lUVElJgXiyFcMxG3NDr5IP0/view](https://drive.google.com/file/d/10Bjh4_-A1lUVElJgXiyFcMxG3NDr5IP0/view?usp=sharing))]
 <h1 align="center">Hi 👋, I'm Vidura Naveen</h1>
 <h3 align="center">A dedicated and passionate software developer committed to advancing in the field.</h3>
 
