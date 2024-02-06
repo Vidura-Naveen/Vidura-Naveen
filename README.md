@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/drive-viewer/AK7aPaAxaZvIG35tljPiGTBrO93aZBPCV1k6EeXI6DzS7pdiBbEsXdgiByl4MN9Ig8dbiMHiiAIJVXDYzZ0xbX6K1MFR6OoQGw=s1600)
+![MasterHead](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRZXcN5On0EhFP7_t9u7QfrS9tibP6rLLg-y0tbNiKZ6JqR7j9ZwQJEcf3UyGLF66nU1vT7Abf1_SEDIR8SN9YvrNSJNA=s1600)
 <h1 align="center">Hi 👋, I'm Vidura Naveen</h1>
 <h3 align="center">A dedicated and passionate software developer committed to advancing in the field.</h3>
 
